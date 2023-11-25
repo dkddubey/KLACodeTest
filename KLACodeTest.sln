@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KLACodeTest", "KLACodeTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KLACodeTest.Tests", "KLACodeTest.Tests\KLACodeTest.Tests.csproj", "{AD8686BD-E4BC-40CF-9F77-52B345006DCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAPI", "SampleAPI\SampleAPI.csproj", "{B2C03B66-17B6-4AC2-AFAE-E800CD931FDD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{AD8686BD-E4BC-40CF-9F77-52B345006DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD8686BD-E4BC-40CF-9F77-52B345006DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD8686BD-E4BC-40CF-9F77-52B345006DCE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B2C03B66-17B6-4AC2-AFAE-E800CD931FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B2C03B66-17B6-4AC2-AFAE-E800CD931FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B2C03B66-17B6-4AC2-AFAE-E800CD931FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B2C03B66-17B6-4AC2-AFAE-E800CD931FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
